@@ -1,0 +1,29 @@
+{
+  "name": "David Kleňha — Jazzový kvartet",
+  "short_name": "Jazzový kvartet",
+  "description": "Jazzový kvartet živě — zpěv, klavír, kontrabas a bicí na plesy, firemní večírky a svatby.",
+  "lang": "cs",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f0e4",
+  "theme_color": "#0f5257",
+  "icons": [
+    {
+      "src": "/favicon/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
