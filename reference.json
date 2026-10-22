@@ -1,3 +1,4 @@
+
 {
   "_navod": "Návod je v souboru NAVOD-recenze-a-reference.md",
   "reference": [
@@ -7,6 +8,70 @@
         "cs": "Praha · pravidelná vystoupení",
         "en": "Prague · regular performances",
         "de": "Prag · regelmäßige Auftritte"
+      }
+    },
+    {
+      "nazev": "Dům kultury Mladá Boleslav",
+      "popis": {
+        "cs": "Mladá Boleslav · reprezentační plesy",
+        "en": "Mladá Boleslav · formal balls",
+        "de": "Mladá Boleslav · Repräsentationsbälle"
+      }
+    },
+    {
+      "nazev": "Lázeňská kolonáda Poděbrady",
+      "popis": {
+        "cs": "Poděbrady · plesy a galavečery",
+        "en": "Poděbrady · balls and gala evenings",
+        "de": "Poděbrady · Bälle und Galaabende"
+      }
+    },
+    {
+      "nazev": "Kulturní dům",
+      "popis": {
+        "cs": "Kutná Hora · velké společenské plesy",
+        "en": "Kutná Hora · grand social balls",
+        "de": "Kutná Hora · große Gesellschaftsbälle"
+      }
+    },
+    {
+      "nazev": "Dům kultury Kladno",
+      "popis": {
+        "cs": "Kladno · slavnostní plesy",
+        "en": "Kladno · formal balls",
+        "de": "Kladno · festliche Bälle"
+      }
+    },
+    {
+      "nazev": "Městský společenský dům",
+      "popis": {
+        "cs": "Kolín · reprezentační plesy",
+        "en": "Kolín · formal balls",
+        "de": "Kolín · Repräsentationsbälle"
+      }
+    },
+    {
+      "nazev": "Kulturní centrum",
+      "popis": {
+        "cs": "Říčany · plesy a společenské večery",
+        "en": "Říčany · balls and social evenings",
+        "de": "Říčany · Bälle und Gesellschaftsabende"
+      }
+    },
+    {
+      "nazev": "Kulturní dům",
+      "popis": {
+        "cs": "Beroun · plesy a slavnostní večery",
+        "en": "Beroun · balls and gala evenings",
+        "de": "Beroun · Bälle und festliche Abende"
+      }
+    },
+    {
+      "nazev": "Hotel Hejtmanský dvůr",
+      "popis": {
+        "cs": "Slaný · hotelové plesy a galavečery",
+        "en": "Slaný · hotel balls and gala evenings",
+        "de": "Slaný · Hotelbälle und Galaabende"
       }
     }
   ]
