@@ -1,0 +1,13 @@
+{
+  "_navod": "Návod je v souboru NAVOD-recenze-a-reference.md",
+  "reference": [
+    {
+      "nazev": "Reduta Jazz Club",
+      "popis": {
+        "cs": "Praha · pravidelná vystoupení",
+        "en": "Prague · regular performances",
+        "de": "Prag · regelmäßige Auftritte"
+      }
+    }
+  ]
+}

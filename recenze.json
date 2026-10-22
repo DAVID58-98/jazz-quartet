@@ -1,0 +1,21 @@
+{
+  "_navod": "Návod je v souboru NAVOD-recenze-a-reference.md",
+  "recenze": [
+    {
+      "jmeno": "Karel T.",
+      "datum": "2026-05-19",
+      "akce": {
+        "cs": "narozeninová oslava",
+        "en": "birthday party",
+        "de": "Geburtstagsfeier"
+      },
+      "text": {
+        "cs": "Fakt paráda! Kluky jsme bookli na narozeniny a nemělo to chybu. Regulérní živá jízda od začátku do konce.",
+        "en": "Absolutely brilliant. We booked them for a birthday party and it was flawless — a proper live show from start to finish.",
+        "de": "Einfach großartig. Wir haben sie für eine Geburtstagsfeier gebucht und es war makellos — echte Live-Musik von Anfang bis Ende."
+      },
+      "hvezdy": 5,
+      "zdroj": "https://www.budemesvoji.cz/listing/david-klenha-jazz-band/"
+    }
+  ]
+}
