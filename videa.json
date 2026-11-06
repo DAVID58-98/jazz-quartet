@@ -1,0 +1,72 @@
+{
+  "_navod": "Návod je v souboru NAVOD-videa.md",
+  "videa": [
+    {
+      "url": "https://youtube.com/shorts/chcDLTINEBo",
+      "nazev": "Route 66",
+      "misto": "Jazz Club Reduta"
+    },
+    {
+      "url": "https://youtube.com/shorts/AqWGedkNigY",
+      "nazev": "Jezdím bez nehod",
+      "misto": {
+        "cs": "Zámek Zbraslav",
+        "en": "Zbraslav Chateau",
+        "de": "Schloss Zbraslav"
+      },
+      "nahled": "video/2.webp"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=H-ECDEmymu4",
+      "nazev": "L-O-V-E",
+      "misto": {
+        "cs": "Festival Mariánské Lázně",
+        "en": "Mariánské Lázně Festival",
+        "de": "Festival Mariánské Lázně"
+      },
+      "nahled": "video/1.webp"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HI9op3uKEA8",
+      "nazev": "’S Wonderful",
+      "misto": "Jazz Club Reduta",
+      "nahled": "video/3.webp"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P6iJJ6s5KaI",
+      "nazev": "Sunny",
+      "misto": {
+        "cs": "Festival Františkovy Lázně",
+        "en": "Františkovy Lázně Festival",
+        "de": "Festival Františkovy Lázně"
+      },
+      "nahled": "video/4.webp"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iF4ShjZouG0",
+      "nazev": "Život je jen náhoda",
+      "misto": {
+        "cs": "Viniční večer Modřany",
+        "en": "Vineyard Evening Modřany",
+        "de": "Weinabend Modřany"
+      },
+      "nahled": "video/5.webp"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zJGD4tn9CUc",
+      "nazev": "Quizás / Perhaps",
+      "misto": "Jazz Club Reduta",
+      "nahled": "video/6.webp"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hAwyRm_FjOc",
+      "nazev": "Don’t Get Around Much Anymore",
+      "misto": {
+        "cs": "Občanská plovárna Praha",
+        "en": "Občanská plovárna, Prague",
+        "de": "Občanská plovárna, Prag"
+      },
+      "nahled": "video/7.webp"
+    }
+  ]
+}
