@@ -10,7 +10,7 @@ Ověřená fakta o kapele (vše je doložené na webu):
 - Cena: od 27 000 Kč za standardní večer v Praze, tj. 2 hodiny živé hudby s jednou 15minutovou přestávkou; v ceně vlastní profesionální stereo ozvučení BOSE a doprava po Praze; konečná cena podle délky programu, termínu, místa a typu akce; výhodnější podmínky ve všední dny, mimo hlavní sezónu a při rezervaci s předstihem
 - Doprava mimo Prahu: 14 Kč/km — kvůli objemu techniky jede kapela dvěma vozy, proto se sazba za jeden vůz počítá dvakrát; pokrývá pohonné hmoty, dálniční známku, parkovné a rezervu na výkyvy cen paliva
 - Délka produkce: 1 hodina bez pauzy, 2 hodiny s jednou pauzou (standard) nebo 3 hodiny se dvěma pauzami
-- Repertoár: 83 skladeb ve veřejném výběru z více než 100 nastudovaných — jazzové a swingové standardy, šanson, moderní písně v jazzové úpravě
+- Repertoár: 122 skladeb ve veřejném výběru z více než 100 nastudovaných — jazzové a swingové standardy, šanson, moderní písně v jazzové úpravě
 - Hraje se výhradně živě, bez playbacků
 - Vhodné využití: plesy a firemní večírky, kde se tančí — kvartet je nejmenší sestava s bicími, tedy s plným tanečním rytmem
 - Ozvučení: vlastní profesionální aktivní aparatura pro akce do 80–100 hostů; nad 100 osob nebo velké venkovní produkce vyžadují zvukaře pořadatele
@@ -29,12 +29,23 @@ Ověřená fakta o kapele (vše je doložené na webu):
 ## Sekce hlavní stránky
 
 - [Kdo vám zahraje](https://jazzquartet.cz/#lineup): profily hudebníků včetně jejich vzdělání a dosavadní praxe
-- [Ukázka repertoáru](https://jazzquartet.cz/#repertoire): 83 konkrétních titulů s uvedením interpreta, od kterého skladba pochází
+- [Ukázka repertoáru](https://jazzquartet.cz/#repertoire): 122 konkrétních titulů s uvedením interpreta, od kterého skladba pochází
 - [Videoukázky a živé nahrávky](https://jazzquartet.cz/#poslech): jak kvartet skutečně zní
 - [Ceny a poptávka](https://jazzquartet.cz/#poptavka): formulář s výběrem typu akce, data, místa a délky produkce
 - [Pro koho jsme hráli](https://jazzquartet.cz/#refs): seznam firemních klientů, hotelů a kulturních institucí
 - [Co nám píší klienti](https://jazzquartet.cz/#reviews): ohlasy klientů kvartetu, ověřitelné na budemesvoji.cz
 - [Časté dotazy](https://jazzquartet.cz/#faq): ceny, hraní k tanci, ozvučení, technické požadavky, dojezd a volba velikosti sestavy
+- [Tematické večery na klíč (Signature Nights)](https://jazzquartet.cz/#programy): hotové programy se setlistem, sladěným oblečením a ambientním osvětlením; detaily jsou na jazztrio.cz
+
+## Tematické večery — Signature Nights
+
+Hotové programy na firemní akce a večírky, v sestavě duo, trio nebo kvartet. Tematický večer je o něco dražší než běžný večer.
+
+- [Sinatra Night](https://jazztrio.cz/programy/sinatra-night.html): Fly Me to the Moon, My Way a New York, New York.
+- [Bennett Night](https://jazztrio.cz/programy/bennett-night.html): Program, který hrajeme v Jazz Clubu Reduta.
+- [První republika](https://jazztrio.cz/programy/prvni-republika.html): Ježek, V+W a swing pražských kaváren 30. let.
+- [Bossa & Lounge](https://jazztrio.cz/programy/bossa-lounge.html): Bossa nova a lounge k večeři i welcome drinku.
+- [Vánoční swing](https://jazztrio.cz/programy/vanocni-swing.html): Let It Snow, White Christmas i koledy ve swingu.
 
 ## Další sestavy Davida Kleňhy
 
